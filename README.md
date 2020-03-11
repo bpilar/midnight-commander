@@ -1,11 +1,11 @@
 # Midnight-commander
-Status: w dupie
+Status: ...jest...
 
 ## Wspierane backendy
 
 | Backend | Status          | Uwagi                                                         |
 |:-------:|:---------------:|:---------------------------------------------------------------:|
-| Vim     | XD                                                           |
+| Vim     | Tak                 Trochę                                          |
 
 ## Kompilacja i uruchomienie
 
