@@ -1,0 +1,4 @@
+/home/student/mine/theLastChance/midnight-commander/backends/vim-backend/CMakeFiles/rebuild_cache.dir
+/home/student/mine/theLastChance/midnight-commander/backends/vim-backend/CMakeFiles/edit_cache.dir
+/home/student/mine/theLastChance/midnight-commander/backends/vim-backend/CMakeFiles/VimBackend.dir
+/home/student/mine/theLastChance/midnight-commander/backends/vim-backend/CMakeFiles/test_tool.dir

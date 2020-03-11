@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVimBackend.a  CMakeFiles/VimBackend.dir/src/VimBackend.cpp.o CMakeFiles/VimBackend.dir/src/InputReader.cpp.o
+/usr/bin/ranlib libVimBackend.a

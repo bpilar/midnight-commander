@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_tool.dir/testTool/main.cpp.o  -o test_tool libVimBackend.a -lncurses /usr/lib/x86_64-linux-gnu/libform.so /usr/lib/x86_64-linux-gnu/libpanel.so 

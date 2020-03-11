@@ -1,4 +1,4 @@
-# Uml class editor
+# Midnight-commander
 Status: w dupie
 
 ## Wspierane backendy
@@ -11,11 +11,11 @@ Status: w dupie
 
 ```
 make all
-chmod u+x uml-class.app
-./uml-class.app
+chmod u+x midnight-commander.app
+./midnight-commander.app
 ```
 ## Komendy
 
-W pliku `Uml-class.hpp` .
+W pliku `Midnight-commander.hpp` .
 
 

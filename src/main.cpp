@@ -7,7 +7,7 @@
 
 int main()
 {
-    tools::UmlClass tool;
+    tools::Commander tool;
     backends::VimBackend backend;
     backend.setTool(tool);
     tool.setBackend(backend);
