@@ -5,7 +5,7 @@ Status: ...jest...
 
 | Backend | Status          | Uwagi                                                         |
 |:-------:|:---------------:|:---------------------------------------------------------------:|
-| Vim     | Tak                 Trochę                                          |
+| Vim     | Tak                                                           | Trochę
 
 ## Kompilacja i uruchomienie
 
